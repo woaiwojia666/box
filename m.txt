@@ -11,22 +11,8 @@
     "logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 "sites": [
-{"key":"豆瓣2","name":"免责1:所有直播源来自网络,供技术交流学习，","type":3,"api":"csp_Douban","searchable":0},
-{"key":"豆瓣1","name":"免责2:请勿相信视频中广告,不对任何内容负责","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=xx&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b","ext": "https://欧歌.yy.nxog.top/公告.php?b=m"},
-
-
-//多jar挂
-{"key":"csp_Netfixtv","name":"🐲玩欧｜4K弹幕","type":3,"changeable":"0","api":"csp_DuopanGuard","filterable":1,"jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=og&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;0de2c57f282d4204b236d3432348fee6","ext":{"site_urls":["https://woog.nxog.eu.org","https://woog.xn--dkw.xn--6qq986b3xl"],"url_key":"Netfixtv"}},
-
-{"key":"csp_UC","name":"🐲玩欧｜UC弹幕","type":3,"changeable":"0","api":"csp_DuopanGuard","filterable":1,"jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=og&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;0de2c57f282d4204b236d3432348fee6","ext":{"site_urls":["https://wooguc.nxog.eu.org","https://oguc.xn--dkw.xn--6qq986b3xl"],"url_key":"UC"}},
-
-{"key":"欧KK","name":"🐲夸快｜非会员4k","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/json/ogkk.json?"},
-
-{"key": "config", "name": "🐲玩欧┃配置中心","type": 3,"jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=og2&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;ed63f201e8bddedd067443aff6091c42","api": "csp_Config","searchable": 0},
-{"key":"配置中心","name":"❤配置｜中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.597}},
-
-
-//jar
+{"key":"直播","name":"🇨🇳TV直播","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/好趣.js"},
+{"key":"央视","name":"🇨🇳央视栏目","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/央视片库.js"},
     {
       "key": "苹果",
       "name": "🍎TH┃苹果┃不卡",
@@ -76,8 +62,6 @@
       "changeable": 1,
       "ext": "FbjPcVZY48PN/RIZ5QqOrsp1OZsTS9wQSSpQpK6jnh0fUMKIu22IxR6Z7/exDifuKH+Agjg9"
     },
-{"key":"央视","name":"🇨🇳央视","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/央视片库.js"},
-{"key":"直播","name":"直播好趣网","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/好趣.js"},
 {"key":"巧技","name":"💡巧巧｜影视","type":3,"api":"csp_qiao2","playerType":2,"ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"},
 {"key":"蝴蝶","name":"💡蝴蝶｜影视","type":3,"api":"csp_Hudie","playerType":2,"ext":"eaHR0cHM6Ly9kLmRjbW92aWUudG9w"},
 {"key":"低端","name":"💡低端｜影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
