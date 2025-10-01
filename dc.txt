@@ -18,7 +18,7 @@
     },
     {
       "url": "https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/a4.txt",
-      "name": "安卓4推荐"
+      "name": "安卓4.4推荐"
     },
     {
       "url": "http://mpanso.me/DEMO.json",
