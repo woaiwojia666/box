@@ -1,4 +1,11 @@
-﻿肥猫高清,#genre#
+﻿肥猫收藏,#genre#
+CCTV1[1920*1080],https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
+CCTV1[1920*1080],https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
+CCTV1[1920*1080],https://zby.130519.xyz/PLTV/11/224/3221225770/index.m3u8
+CCTV1[1920*1080],https://zby.130519.xyz/PLTV/11/224/3221226163/index.m3u8
+CCTV13[1920*1080],https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8
+湖南卫视[1920*1080],https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8
+
 全网央卫,#genre#
 CCTV1[1920*1080],https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 CCTV1[1920*1080],https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8

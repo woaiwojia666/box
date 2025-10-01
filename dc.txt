@@ -17,6 +17,10 @@
       "name": "欧歌家庭线"
     },
     {
+      "url": "https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/a4.txt",
+      "name": "安卓4推荐"
+    },
+    {
       "url": "http://mpanso.me/DEMO.json",
       "name": "小米线路"
     },
