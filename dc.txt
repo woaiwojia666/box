@@ -65,11 +65,11 @@
       "name": "🚀香雅情线"
     },
     {
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/000.json",
       "name": "🚀分享者"
     },
     {
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
       "name": "🚀老刘线路"
     },
     {
