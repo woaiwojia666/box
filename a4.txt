@@ -66,7 +66,7 @@
     },
     {
       "key": "低端",
-      "name": "💖分享低端",
+      "name": "A分享低端",
       "type": 3,
       "api": "csp_Ddrk",
       "playerType": "2",
@@ -199,7 +199,7 @@
       "changeable": 1
     }, 
 
-{"key": "合格","name": "💝分享火锅","type": 3,"api": "csp_AppYsV2","ext": "https://cs.hgyx.vip/api2/api.php/app/"},
+{"key": "合格","name": "B分享火锅","type": 3,"api": "csp_AppYsV2","ext": "https://cs.hgyx.vip/api2/api.php/app/"},
 {"key": "app_分享者解析","name": "️💖分享解析","type": 1,"api": "https://vs.okcdn100.top/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,
 "categories":["国产剧", "动画片","动作片", "冒险片", "喜剧片","爱情片","记录片","灾难片", "悬疑片", "奇幻片","恐怖片", "剧情片","战争片", "武侠片", "中国动漫", "日本动漫", "欧美动漫", "港台动漫","海外动漫", "韩剧", "香港剧","欧美剧", "日剧","台剧","马泰剧", "综艺","动漫","短剧"]},		
 { "key": "超前全片源", "name": "💖分享全网", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType":2, "ext": "http://zhangbokeji.top:291/api.php/app/" }, 
