@@ -1,22 +1,4 @@
-﻿{
-// 每日一言 (随机显示欢迎语)
-"dairyWords": [{
-    "name": "rating",
-    "request": {
-     "method": "GET",
-     "url": {
-      "raw": "https://v.api.aa1.cn/api/yiyan/index.php?type=get"
-     }
-    },
-    "response": {
-        "result": "$.data.content"
-    },
-    "expires" : "43200"
-}],
-
-
-
-// 首页推荐视频 (豆瓣)
+﻿// 首页推荐视频 (豆瓣)
 "recommend": [{
  "name": "豆瓣推荐",
  "request": {
@@ -2516,43 +2498,11 @@
     {"host": "*","rule": ["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
 
 //jar+壁纸
-
-"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip;md5;4a8c0010a0abe47752164ac3e57f8765","wallpaper":"https://sgmao.serv00.net/image/", "warningText":"💕警告，请勿相信广告！！！💕",
+//"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip;md5;4a8c0010a0abe47752164ac3e57f8765","wallpaper":"https://sgmao.serv00.net/image/", "warningText":"💕警告，请勿相信广告！！！💕",
 
 //电视直播
 
- "lives":[{"name":"💖分享者直播","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/000/master/live20220813.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-	{
-      "name": "💖分享者直播2",
-      "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
-    },
-	{
-            "name": "💕分享者直播3",
-            "type": 0,
-            "url": "http://lisha521.dynv6.net.fh4u.org/tv.txt",
-            "playerType": 1
-        },
-        {
-            "name": "💕分享者直播4",
-            "type": 0,
-            "url": "http://lisha521.dynv6.net.fh4u.org/iptv.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://epg.iill.top/logo/{name}.png",
-            "ua": "okhttp/3.15,AptvPlayer/1.4.0",
-            "timeout": 10,
-            "playerType": 2
-        },
-        {
-            "name": "💕分享者直播5",
-            "type": 0,
-            "url": "http://lisha521.dynv6.net.fh4u.org/hlj.txt",
-            "ua": "okhttp/3.15",
-            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-        },
+ "lives":[{"name":"💖分享者直播","type":0,"url":"http://rihou.cc:555/gggg.nzk","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
         {
             "name": "💕分享者直播6",
             "type": 0,
@@ -2561,24 +2511,6 @@
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "💕分享者直播7",
-            "type": 0,
-            "url": "http://lisha521.dynv6.net.fh4u.org/live.txt",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "💕分享者直播8",
-            "type": 0,
-            "url": "http://127.0.0.1:10079/c/3600/null/http://lisha521.dynv6.net.fh4u.org/live1.txt",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
         }],
 
 //动态图片
