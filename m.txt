@@ -4,8 +4,8 @@
 "spider":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
 "warningText":"我的小宝",
   "lives": [
-    {"name": "直播","type": 0,"playerType": 1,
-    "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+    {"name": "小宝直播","type": 0,"playerType": 1,
+    "url": "https://gh-proxy.org/https:/github.com/woaiwojia666/box/blob/main/zb.txt",
     "ua": "okhttp/3.15",
     "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
     "logo": "https://epg.112114.xyz/logo/{name}.png"}],
