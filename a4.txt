@@ -921,16 +921,6 @@
 {"key":"csp_樱之空","name":"💖分享樱空","type":3,"api":"csp_XBPQ",
    "jar": "",
 "ext":{"主页url":"https://www.skr2.cc/","数组":"class=\"vodlist_item&&</div></li>","简介":"style=\"display:none;\"><span>&&</span>","线路数组":"<a&&</a>","线路标题":"分享者在线+>&nbsp;线路</a>","播放数组":"class=\"content_playlist&&</ul>","播放列表":"<li>&&</li>","播放标题":">&&</a>","分类url":"https://www.skr2.cc/vodshow/{cateId}---{class}-----{catePg}---{year}/","分类":"电影$84#大陆剧$81#港台剧$82#桜剧$32#桜漫$1#日漫$46#国漫$47#美漫$85#综艺$91"}},
-	 {"key":"csp_fxzwj",
-  "name":"💖分享问界",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/XBPQ(2).jar",
-            "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/分享WJ.json"},
-	
 	{
 	"key": "jianpian",
 	"name": "💖分享荐片",
@@ -1668,7 +1658,7 @@
 //jar+壁纸
 //"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip;md5;4a8c0010a0abe47752164ac3e57f8765","wallpaper":"https://sgmao.serv00.net/image/", "warningText":"💕警告，请勿相信广告！！！💕",
 
-//电视直播
+//电视直播  "lives":[{"name":"💖分享者直播","type":0,"url":"https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/zb.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
  "lives":[{"name":"💖分享者直播","type":0,"url":"https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/fxzb.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
         {
