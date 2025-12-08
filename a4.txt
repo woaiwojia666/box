@@ -1644,18 +1644,12 @@
 //jar+壁纸
 //"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip;md5;4a8c0010a0abe47752164ac3e57f8765","wallpaper":"https://sgmao.serv00.net/image/", "warningText":"💕警告，请勿相信广告！！！💕",
 
-//电视直播  "lives":[{"name":"💖分享者直播","type":0,"url":"https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/zb.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+//电视直播  "lives":[{"name":"小宝直播","type":0,"url":"https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/zb.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
- "lives":[{"name":"💖分享者直播","type":0,"url":"https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/fxzb.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-        {
-            "name": "💕分享者直播6",
-            "type": 0,
-            "url": "http://rihou.cc:555/gggg.nzk",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        }],
+ "lives":[
+              {"name":"肥猫直播","type":0,"url":"https://fy188766.xyz/?ip=","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+              {"name":"猫电影视","type":0,"url":"http://rihou.cc:555/gggg.nzk","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"}
+           ],
 
 //动态图片
 // "logo": "https://git.acwing.com/YGFXZ/0/-/raw/main/H.GIF",
