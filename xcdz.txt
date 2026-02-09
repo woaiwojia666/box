@@ -77,15 +77,6 @@
             "filterable": 0,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/分享douban.js"
         },
-		 {
-      "key": "xpyg",
-      "name": "💖热播预告",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享新片.json"
-    },
 	 {
       "key": "央视片库",
       "name": "🇨🇳分享央视",
@@ -110,7 +101,7 @@
         },
      {
       "key": "nm糯米",
-      "name": "分享糯米",
+      "name": "C分享糯米",
       "type": 3,
       "api": "csp_Nmyswv",
       "searchable": 1,
@@ -118,20 +109,6 @@
       "changeable": 1,
       "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者F.jar"
     },
-        {"key": "热播","name": "💖分享热啵","type": 3,"api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/py/热播APP.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60},
-            {
-			"key": "fxz布蕾",
-			"name": "💖分享布蕾",
-			"type": 3,
-			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"changeable": 0,
-			"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/bulei4K.js"
-		},
-{"key": "合格","name": "B分享火锅","type": 3,"api": "csp_AppYsV2","ext": "https://cs.hgyx.vip/api2/api.php/app/"},
 { "key": "超前全片源", "name": "💖分享全网", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType":2, "ext": "http://zhangbokeji.top:291/api.php/app/" }, 
  {
             "key": "QD4K",
@@ -163,117 +140,12 @@
       "changeable": 1
     },
 
-{
-			"key": "py_光速",
-			"name": "💖分享光速",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/alantang1977/X/main/py/py_光速.py",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60
-		},
-		
-		{
-			"key": "mp",
-			"name": "💖分享┃MP",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/alantang1977/X/main/py/py_mp.py",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60
-		},
-		{
-			"key": "hitv",
-			"name": "💖分享┃Hitv",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/alantang1977/X/main/py/py_hitv.py",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60
-		},
-
-{"key":"hipy_js_美柏","name":"💖分享美柏","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/分享美柏.py","searchable":1,"quickSearch":1,"filterable":1},
-
-{
-			"key": "csp_猎手",
-			"name": "💖分享猎手",
-			"type": 3,
-			"searchable": 1,
-			"changeable": 1,
-			"quickSearch": 1,
-			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/分享猎手.py",
-			"playerType": 2,
-			"filterable": 1
-		},
-
-{
-            "key": "分享者剧评",
-            "name": "💖分享剧评",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/分享金牌.py",
-            "style": {
-                "type": "rect",
-                "ratio": 1.567
-            },
-            "ext": {
-                "site": "https://m.fjvtw.com/,https://cqzuoer.com,https://m.hhduc.com,https://www.hellorlgzf7sn.com"
-            }
-        },
 
 {
       "key": "py_mofang",
       "name": "💖分享魔方",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/分享魔方.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-
-{
-      "key": "py_cabeifu",
-      "name": "💖分享茶杯",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/茶杯狐影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-{
-      "key": "py_lianyu",
-      "name": "💖分享鲢鱼",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/分享鲢鱼.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-
-{
-      "key": "py_xiruo",
-      "name": "💖分享惜弱",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/分享惜弱.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-
-{
-      "key": "py_bianyuan",
-      "name": "💖分享边缘",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/分享边缘.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -296,48 +168,6 @@
       "name": "💖分享云速",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/分享云速.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-
-{
-      "key": "py_aigua",
-      "name": "💖分享爱瓜",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/爱瓜(代理).py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-
-{
-      "key": "py_wawa",
-      "name": "💖分享哇哇",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/wawa.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "py_xiaohys",
-      "name": "💖分享小红",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/小红影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "py_gowaiju",
-      "name": "💖分享外剧",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/国外剧APP.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -377,24 +207,6 @@
    "searchable": 1,
    "filterable": 1
   },
-{
-   "key": "旺-旺",
-   "name": "💖分享旺仔",
-   "type": 1,
-   "api": "https://api.wwzy.tv/api.php/provide/vod/",
-   "playerType": 1,
-   "searchable": 1,
-   "changeable": 1
-  },
-{
-   "key": "豆瓣资源",
-   "name": "B分享豆瓣",
-   "type": 1,
-   "quickSearch": 1,
-   "api": "https://caiji.dbzy.tv/api.php/provide/vod/"
-  }, 
-  {"key": "0duapp","name": "💝分享零度","type": 3,"api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/py/零度影视.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60},	    
-
 {
       "key": "py_haoshuai",
       "name": "💖分享好帅",
@@ -607,46 +419,7 @@
       } ,
       "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者F.jar"
     },
-    {
-      "key": "UC",
-      "name": "💖分享UC",
-      "type": 3,
-      "api": "csp_UuSs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "pturl": "http://mo.91muou.icu/|http://54271.fun/|http://mo.666291.xyz/"
-      } ,
-      "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者F.jar"
-    },  {
-      "key": "原创",
-      "name": "💖分享原创",
-      "type": 3,
-      "api": "csp_YCyz",
-      "timeout": 15,
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1 ,
-      "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者F.jar"
-    },
- 
-    {
-      "key": "厂长",
-      "name": "💖分享厂长",
-      "type": 3,
-      "api": "csp_NewCz",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czzyvideo.com/",
-      "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者F.jar"
-    },
-    {
+   {
       "key": "港迷",
       "name": "A分享港剧",
       "type": 3,
@@ -655,20 +428,6 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZMAYVUEz5FpK6jnh0fUMKIpzPWz0jI/rymDTutcXiX2Dhu1XsjGntrH8QzPldJXdqa2h7TLjJF3DFX",
-      "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者F.jar"
-    },
-    {
-      "key": "Lib",
-      "name": "💖分享丽波",
-      "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      } ,
       "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者F.jar"
     },
     {
@@ -683,19 +442,6 @@
       "ext": "https://www.zxzjhd.com/",
       "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者F.jar"
     },
-
-    {
-      "key": "木星",
-      "name": "B分享木星",
-      "type": 3,
-      "api": "csp_AppSx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjPcVZY48PN/RIZ5QqOrsplZNERApoHSmxZ77D7wAtcAsqZuXTQzUHW+quzHG+7cXaG3SBwzihuA2NlCJpscUJASIGSmRiXKW5NhipHle83SfO6IA==",
-      "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者F.jar"
-    },
-
     {
       "key": "热播",
       "name": "A分享热播",
@@ -732,8 +478,6 @@
       "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者F.jar"
     },
 
-{"key":"csp_Wwys","name":"B分享农民","type":3,"quickSearch":1,"api":"csp_WwysGuard","ext":"https://www.wwgz.cn","jar":"https://gh-proxy.com/https://github.com/maoystv/TV/blob/master/jar/分享者x.jar"},
-
 {"key":"csp_Netfixtv","name":"网盘_至臻","type":3,"changeable":"0","quickSearch":1,"api":"csp_DuopanGuard","filterable":1 ,"jar":"https://gh-proxy.com/https://github.com/maoystv/TV/blob/master/jar/分享者x.jar","ext":{"site_urls":["https://mihdr.top","https://www.mihdr.top","http://www.miqk.cc","https://www.zhizhenpan.fun"],"url_key":"Netfixtv","token":"","ucCookie":"","quarkCookie":"","threadinfo":{"chunksize":512,"threads":16}}},
 
    
@@ -745,13 +489,6 @@
 	"changeable":1,
 	"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/ptt.jar"},
 	
-     {
-	"key": "hipy_js_fxzhz",
-	"name": "💖分享瓜子",
-	"type": 3,
-         "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-	"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/分享GZ.js"
-},
 	
 	{"key":"csp_XBPQ_fxzcjy","name":"💖分享柴姬","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
     "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/XBPQ(2).jar",
@@ -949,13 +686,6 @@
 			"ext":"https://v.aikanbot.com"
 		},
   
-                {
-		"key": "drpy_365",
-		"name": "💖分享年年",
-		"type": 3,
-		"api": "https://gh-proxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/libs/drpy2.min.js",
-		"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/js/365.js"
-	},
                {
 		"key": "cjzy_360资源",
 		"name": "💖分享卫士",
@@ -970,7 +700,7 @@
 {"key": "无忧资源","name": "💎无忧采集","type": 1,"api": "https://www.wyvod.com/api.php/provide/vod/"},   
        {
         "key": "如意资源",
-        "name": "💖分享如意",
+        "name": "A分享如意",
         "type": 1,
         "api": "https://cj.rycjapi.com/api.php/provide/vod/",
         "searchable": 1,
@@ -988,7 +718,7 @@
     },  
  {
         "key": "爱奇艺资源",
-        "name": "💖分享奇艺",
+        "name": "A分享奇艺",
         "type": 1,
         "api": "https://iqiyizyapi.com/api.php/provide/vod/",
         "searchable": 1,
@@ -1031,42 +761,6 @@
         "quickSearch": 1,
         "filterable": 1
     }, 
-       {
-            "key": "csp_SNzy",
-            "name": "🧊索尼高清",
-            "type": 1,
-            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "动作片",
-                "喜剧片",
-                "科幻片",
-                "恐怖片",
-                "爱情片",
-                "剧情片",
-                "战争片",
-                "记录片",
-                "国产剧",
-                "欧美剧",
-                "香港剧",
-                "韩国剧",
-                "台湾剧",
-                "日本剧",
-                "海外剧",
-                "泰国剧",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "港台动漫",
-                "海外动漫",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺"
-            ]			
-        },	
         {"key":"百度","name":"🏅分享百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"filterable":0,"categories":[
 "欧美剧",
 "动作片",
@@ -1083,7 +777,7 @@
            {"key":"csp_Bd","name":"🚕哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/Xiang.txt","ext":"https://v.xlys.ltd.ua"},
   {
             "key": "魔都资源",
-            "name": "💖分享魔都",
+            "name": "A分享魔都",
             "type": 1,
             "api": "https://moduzy2.com/api.php/provide/vod/",
             "searchable": 1,
@@ -1583,7 +1277,7 @@
 //电视直播  "lives":[{"name":"小宝直播","type":0,"url":"https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/zb.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
  "lives":[
-              {"name":"赛事直播","type":0,"url":"https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/ss.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+              {"name":"赛事_","type":0,"url":"https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/ss.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
               {"name":"猫电影视","type":0,"url":"http://rihou.cc:555/gggg.nzk","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"}
            ],
 
