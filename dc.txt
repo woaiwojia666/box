@@ -2,11 +2,11 @@
   "urls": [
     {
       "url": "https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/a4.txt",
-      "name": "安卓4推荐"
+      "name": "安卓4老盒子"
     },
     {
-      "url": "https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/m.txt",
-      "name": "我的小宝"
+      "url": "https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/ax.txt",
+      "name": "新盒子推荐"
     },
     {
       "url": "http://肥猫.com",
