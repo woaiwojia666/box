@@ -99,16 +99,6 @@
       "changeable": 1
     },
 {
-      "key": "py_mofang",
-      "name": "💖分享魔方",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/分享魔方.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-{
             "key": "量子-资源",
             "name": "💖分享量子",
             "type": 1,
@@ -143,49 +133,9 @@
                 "欧美综艺"
             ]
         },
-     {
-      "key": "drpyS_盘它[盘]",
-      "name": "💝分享盘它",
-      "type": 4,
-      "api": "https://zhxy.eu.org/api/盘它[盘]",
-      "searchable": 1,
-      "filterable": 0,
-      "quickSearch": 1,
-      "ext": ""
-    },
-    {
-      "key": "drpyS_校长[盘]",
-      "name": "💝分享校长",
-      "type": 4,
-      "api": "https://zhxy.eu.org/api/校长[盘]",
-      "searchable": 1,
-      "filterable": 0,
-      "quickSearch": 1,
-      "ext": ""
-    },
-  {
-      "key": "drpyS_TG[搜]",
-      "name": "💝分享TG搜",
-      "type": 4,
-      "api": "https://zhxy.eu.org/api/TG[搜]",
-      "searchable": 1,
-      "filterable": 0,
-      "quickSearch": 1,
-      "ext": ""
-    },
-    {
-      "key": "drpyS_夸克盘搜[盘]",
-      "name": "💝分享盘搜",
-      "type": 4,
-      "api": "https://zhxy.eu.org/api/夸克盘搜[盘]",
-      "searchable": 1,
-      "filterable": 0,
-      "quickSearch": 0,
-      "ext": ""
-    },
 {
       "key": "玩-偶",
-      "name": "C分享玩偶网盘",
+      "name": "网盘_玩偶",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -217,43 +167,6 @@
         "quickSearch": 1,
         "filterable": 1
     },  
-  {
-            "key": "魔都资源",
-            "name": "💖分享魔都",
-            "type": 1,
-            "api": "https://moduzy2.com/api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1,
-            "playurl": "https://jiexi.modujx01.com/?url=",
-            "categories": [
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "港台动漫",
-                "动漫电影",
-                "里番动漫",
-                "动作片",
-                "喜剧片",
-                "科幻片",
-                "恐怖片",
-                "爱情片",
-                "剧情片",
-                "战争片",
-                "记录片",
-                "国产剧",
-                "欧美剧",
-                "香港剧",
-                "韩国剧",
-                "台湾剧",
-                "日本剧",
-                "海外剧",
-                "泰国剧",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺"
-            ]
-        },
   {"key":"push_agent","name":"📓海阔推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"hide":1,"ext":"0068144bf4d24f3284819c15f3a49482","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/Xiang.txt"}],
 
 //解析接口
