@@ -1583,7 +1583,7 @@
 //电视直播  "lives":[{"name":"小宝直播","type":0,"url":"https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/zb.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
  "lives":[
-              {"name":"肥猫直播","type":0,"url":"https://fy.188766.xyz/?ip=","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+              {"name":"赛事直播","type":0,"url":"https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/ss.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
               {"name":"猫电影视","type":0,"url":"http://rihou.cc:555/gggg.nzk","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"}
            ],
 

@@ -9,6 +9,10 @@
       "name": "新盒子推荐"
     },
     {
+      "url": "https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/xcdz.txt",
+      "name": "星辰定制"
+    },
+    {
       "url": "http://肥猫.com",
       "name": "🚀肥猫线路"
     },
