@@ -189,8 +189,7 @@
             ]
         },
  {"key":"荐片","name":"💡荐片｜影视","api":"csp_Jianpian","type":3,"playerType":1,"ext":"http://api2.rinhome.com"}, 
-{"key": "csp_XYQHikerAL_玩偶哥哥","name":"📀玩偶哥哥(优)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/玩偶哥哥.json"},
-],
+ {"key":"云播影视","name":"💡云播｜影视","type":3,"api":"csp_Tvyb"}],
 
 //解析接口
 
