@@ -66,22 +66,6 @@
       "quickSearch": 0,
       "filterable": 0
     },
-{"key":"csp_DiDuan" ,"name":"A分享低端","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/Xiang.txt"},
-	 {
-      "key": "央视片库",
-      "name": "🇨🇳分享央视",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/央视片库.js"
-    },
-     {"key": "央视综艺","name": "🇨🇳分享综艺","type": 3,"api": "https://d.kstore.dev/download/4127/Xbpq/央视综艺.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60}, 
-     {
-      "key": "一曲肝肠断",
-      "name": "🇨🇳分享戏曲",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/分享xq.js"
-    },
      {
             "key" : "js_好趣",
             "name" : "🇨🇳分享直播",
@@ -204,7 +188,9 @@
                 "欧美综艺"
             ]
         },
-  {"key":"push_agent","name":"📓海阔推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"hide":1,"ext":"0068144bf4d24f3284819c15f3a49482","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/Xiang.txt"}],
+ {"key":"荐片","name":"💡荐片｜影视","api":"csp_Jianpian","type":3,"playerType":1,"ext":"http://api2.rinhome.com"}, 
+{"key": "csp_XYQHikerAL_玩偶哥哥","name":"📀玩偶哥哥(优)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/玩偶哥哥.json"},
+],
 
 //解析接口
 
