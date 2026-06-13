@@ -572,8 +572,8 @@
 //电视直播  "lives":[{"name":"移动专线","type":0,"url":"https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/yd_cctv.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
  "lives":[
-             {"name":"我的电视","type":0,"url":"https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/yd_cctv.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-              {"name":"猫电影视","type":0,"url":"http://rihou.cc:555/gggg.nzk","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"}
+             {"name":"电视","type":0,"url":"https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/yd_cctv.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+              {"name":"影视","type":0,"url":"http://rihou.cc:555/gggg.nzk","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"}
            ],
 
 //动态图片
