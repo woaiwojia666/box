@@ -2,15 +2,11 @@
   "urls": [
     {
       "url": "https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/a4.txt",
-      "name": "安卓4老盒子"
+      "name": "安卓4推荐"
     },
     {
-      "url": "https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/ax.txt",
-      "name": "新盒子推荐"
-    },
-    {
-      "url": "https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/xcdz.txt",
-      "name": "星辰定制"
+      "url": "https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/m.txt",
+      "name": "我的小宝"
     },
     {
       "url": "http://肥猫.com",
@@ -21,7 +17,7 @@
       "name": "🚀饭硬专线"
     },
     {
-      "url": "https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/m.txt",
+      "url": "https://m.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=m",
       "name": "欧歌家庭线"
     },
     {
