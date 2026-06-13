@@ -1,3 +1,4 @@
+﻿全网央卫,#genre#
 #EXTINF:-1 tvg-id="CCTV4k" tvg-name="CCTV4k" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/cctv-4k 超高清.png" group-title="央视频道",CCTV 4k 超高清
 http://live2.rxip.sc969655.com/live/ys4Kcq_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=dd
 #EXTINF:-1 tvg-id="CCTV4k" tvg-name="CCTV4k" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/cctv-4k 超高清.png" group-title="央视频道",CCTV 4k 超高清

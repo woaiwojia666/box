@@ -2,10 +2,10 @@
 "wallpaper":"https://m.nxog.top/m//t/",
 "logo":"https://alicliimg.clewm.net/342/790/68790342/17369906896774bd3d1d8ba1877dea5d967a137aa23d91736990672.gif",
 "spider":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
-"warningText":"我的小宝",
+"warningText":"",
   "lives": [
     {"name": "dx线路直播","type": 0,"playerType": 1,
-    "url": "https://gh-proxy.org/https:/github.com/woaiwojia666/box/blob/main/dx_cctv.txt",
+    "url": "https://gh-proxy.org/https://github.com/woaiwojia666/box/blob/main/dx_cctv.txt",
     "ua": "okhttp/3.15",
     "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
     "logo": "https://epg.112114.xyz/logo/{name}.png"}],
