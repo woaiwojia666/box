@@ -1,14 +1,10 @@
 ﻿央卫电信1,#genre#
-#EXTINF:-1 tvg-id="CCTV1b" tvg-name="CCTV1b" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="央视频道",CCTV 1 综合
-http://222.214.208.34:59901/tsfile/live/0001_1.m3u8
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="央视频道",CCTV 2 财经
-http://222.214.208.34:59901/tsfile/live/0002_1.m3u8
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV3.png" group-title="央视频道",CCTV 3 综艺
-http://222.214.208.34:59901/tsfile/live/0003_1.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="央视频道",CCTV 4 中文国际
-http://222.214.208.34:59901/tsfile/live/0004_1.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="央视频道",CCTV 5 体育
-http://222.214.208.34:59901/tsfile/live/0005_1.m3u8
+CCTV 1 综合,http://222.214.208.34:59901/tsfile/live/0001_1.m3u8
+CCTV 2 财经,http://222.214.208.34:59901/tsfile/live/0002_1.m3u8
+CCTV 3 综艺,http://222.214.208.34:59901/tsfile/live/0003_1.m3u8
+CCTV 4 中文国际,http://222.214.208.34:59901/tsfile/live/0004_1.m3u8
+CCTV 5 体育,http://222.214.208.34:59901/tsfile/live/0005_1.m3u8
+
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5+.png" group-title="央视频道",CCTV 5+ 体育赛事
 http://222.214.208.34:59901/tsfile/live/0016_1.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" group-title="央视频道",CCTV 6 电影
@@ -33,10 +29,9 @@ http://222.214.208.34:59901/tsfile/live/0014_1.m3u8
 http://222.214.208.34:59901/tsfile/live/0015_1.m3u8
 
 央卫电信2,#genre#
-#EXTINF:-1 tvg-id="CCTV1c" tvg-name="CCTV1c" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="央视频道",CCTV 1 综合
-http://222.85.198.92:8000/hls/1/index.m3u8
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="央视频道",CCTV 2 财经
-http://222.85.198.92:8000/hls/2/index.m3u8
+CCTV 1 综合,http://222.85.198.92:8000/hls/1/index.m3u8
+CCTV 2 财经,http://222.85.198.92:8000/hls/2/index.m3u8
+
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV3.png" group-title="央视频道",CCTV 3 综艺
 http://222.85.198.92:8000/hls/3/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="央视频道",CCTV 4 中文国际
