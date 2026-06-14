@@ -9,16 +9,20 @@
       "name": "电信线路"
     },
     {
-      "url": "http://肥猫.com",
-      "name": "🚀肥猫线路"
+      "url": "https://m.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=m",
+      "name": "欧歌家庭线"
+    },
+    {
+      "url": "http://116.196.116.76/tv",
+      "name": "星河完整"
+    },
+    {
+      "url": "http://116.196.116.76/stv",
+      "name": "星河简单版接口"
     },
         {
       "url": "http://www.饭太硬.com/tv",
       "name": "🚀饭硬专线"
-    },
-    {
-      "url": "https://m.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=m",
-      "name": "欧歌家庭线"
     },
     {
       "url": "http://mpanso.me/DEMO.json",
