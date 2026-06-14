@@ -76,12 +76,6 @@
 {"key":"二小","name":"二小｜4K","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"site":["https://www.2xiaopan.top","https://2xiaopan.top","https://www.erxiaozhan.top","https://www.2xiaozhan.top","https://wexwp.cc"]},"timeout":60},
 {"key":"盘搜","name":"盘搜｜搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":0,"filterable":0,"timeout":60},
 
-{"key":"阿里云盘","name":"我的｜阿离","type":3,"api":"csp_PanAli","searchable":0,"filterable":0,"changeable":0,"style":{"type":"list","ratio":1.433}},
-{"key":"夸克云盘","name":"我的｜夸父","type":3,"api":"csp_PanQuark","searchable":0,"filterable":0,"changeable":0,"style":{"type":"list","ratio":1.433}},
-{"key":"UC云盘","name":"我的｜UC","type":3,"api":"csp_PanUC","searchable":0,"filterable":0,"changeable":0,"style":{"type":"list","ratio":1.433}},
-{"key":"百度云盘","name":"我的｜肚盘","type":3,"api":"csp_PanBaidu","searchable":0,"filterable":0,"changeable":0,"style":{"type":"list","ratio":1.433}},
-
-
 //csp_XBPQ
 {"key":"养生堂","name":"🧿养生｜知识","type":3,"jar":"https://ncstatic-file.clewm.net/rsrc/2026/0307/11/98d51d4d95c5cf1b67e74af45cc4445f.jpg;md5;4d860d06ec233dbcb891b76055f099d5","api":"csp_XBPQ","ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/XBPQ/养生堂.json","style":{"type":"rect","ratio":1.597}},
 {"key":"永乐","name":"🧿永乐｜影视","type":3,"api":"csp_XBPQ","jar":"https://ncstatic-file.clewm.net/rsrc/2026/0307/11/98d51d4d95c5cf1b67e74af45cc4445f.jpg;md5;4d860d06ec233dbcb891b76055f099d5","ext":{"\u526f\u6807\u9898":"\u6b27\u6b4c\u4e13\u5c5e","请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类url":"https://www.ylys.tv/;;!H"}},
@@ -98,19 +92,13 @@
 {"key":"戏曲多多","name":"戏曲｜多多","type":3,"api":"csp_AppLY","style":{"type":"list"}},
 {"key":"世界听书","name":"世界｜听书","type":3,"api":"csp_TingShijie","style":{"type":"list"}},
 
-
-{"key":"Douyu","name":"手游┃直播","type":3,"api":"csp_Douyu","jar":"https://ncstatic-file.clewm.net/rsrc/2026/0416/20/1fe667cd217a0c314b8ca59310dbf45d.jpg;md5;a4f403a000bc5e4ebdd9da27fcb05852","searchable":0,"quickSearch":0,"changeable":0,"filterable":1,"timeout":10,"style":{"type":"rect","ratio":1.433}},
-{"key":"csp_Huya","name":"游戏┃直播","type":3,"api":"csp_Huya","jar":"https://ncstatic-file.clewm.net/rsrc/2026/0416/20/1fe667cd217a0c314b8ca59310dbf45d.jpg;md5;a4f403a000bc5e4ebdd9da27fcb05852","searchable":0,"quickSearch":0,"changeable":0,"filterable":1,"timeout":10,"style":{"type":"rect","ratio":1.433}},
 {"key":"919体育","name":"919｜体育","type":3,"api":"csp_919Tiyu","style":{"type":"list"}},
 {"key":"采集之王","name":"采集｜合集","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js","ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/采集之王.js?type=url&params=https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/采集静态.json"},
-//动漫
 
+//动漫
 {"key":"魔都资源","name":"魔都┃动漫","type":1,"api":"https://caiji.moduapi.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"漫国动漫","name":"漫国丨动漫","type":3,"api":"csp_AppSy","ext":{"site":"https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt","siteKey":"rectangleadsadxa","listKey":"aassddwwxxllsx1x","parsesKey":"aassddwwxxllsx1x"}},
 
- 
-{"key":"push_agent","name":"📢手机｜推送","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0},
-{"key": "应用商店","name": "🛒本地包更新","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://m.nxog.top/zm/sd?b=m"},
 {"key":"豆瓣3","name":"📢接口软件永远免费","type":3,"api":"csp_Douban","searchable":0},
 {"key":"豆瓣4","name":"📢请勿相信广告","type":3,"api":"csp_Douban","searchable":0}
 ],
