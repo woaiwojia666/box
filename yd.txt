@@ -133,24 +133,9 @@
       } ,
       "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者F.jar"
     },
-       {
-        "key": "如意资源",
-        "name": "A分享如意",
-        "type": 1,
-        "api": "https://cj.rycjapi.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    },  
- {
-        "key": "爱奇艺资源",
-        "name": "A分享奇艺",
-        "type": 1,
-        "api": "https://iqiyizyapi.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    }],
+{"key": "如意资源","name": "A分享如意","type": 1,"api": "https://cj.rycjapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},  
+{"key": "爱奇艺资源","name": "A分享奇艺","type": 1,"api": "https://iqiyizyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1}
+],
 
 //解析接口
 
