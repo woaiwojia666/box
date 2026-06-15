@@ -1,12 +1,12 @@
 ﻿{
   "urls": [
     {
-      "url": "https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/yd.txt",
-      "name": "移动线路"
+      "url": "https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/a4.txt",
+      "name": "📢安卓 4 专线"
     },
     {
-      "url": "https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/dx.txt",
-      "name": "电信线路"
+      "url": "https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/a9.txt",
+      "name": "📢安卓 9 专线"
     },
     {
       "url": "https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/ouge.txt",
