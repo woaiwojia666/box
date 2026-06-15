@@ -38,9 +38,9 @@
             ]
         },
 {"key": "如意资源","name": "B分享如意","type": 1,"api": "https://cj.rycjapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},  
-{"key":"热播影视","name":"A热播｜影视","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"}},
-{"key":"农民影视","name":"A农民｜影1","type":3,"api":"csp_Wwys","ext":"https://vip.wwgz.cn:5200"},
-{"key":"瓜子影视","name":"A瓜子｜影2","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/瓜子.py","changeable":1},
+{"key":"热播影视","name":"A热播｜影视","type":1,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"}},
+{"key":"农民影视","name":"A农民｜影1","type":1,"api":"csp_Wwys","ext":"https://vip.wwgz.cn:5200"},
+{"key":"瓜子影视","name":"A瓜子｜影2","type":1,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/瓜子.py","changeable":1},
 {"key": "爱奇艺资源","name": "B分享奇艺","type": 1,"api": "https://iqiyizyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1}
 ],
 
