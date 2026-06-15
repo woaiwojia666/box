@@ -5,7 +5,7 @@
 "adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
 "sites": [	{
       "key": "YGFXZ",
-      "name": "更新 09.06",
+      "name": "更新 09.34",
       "type": 3,
       "api": "csp_Local",
       "searchable": 0,
