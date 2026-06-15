@@ -1,71 +1,7 @@
 ﻿{
 
-// 首页推荐视频 (豆瓣)
-"recommend": [{
- "name": "豆瓣推荐",
- "request": {
-  "method": "GET",
-  "header": [{
-   "key": "Referer",
-   "value": "https://movie.douban.com/"
-  }],
-  "url": {
-   "raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"
-  }
- },
- "response": {
-  "result": "$.data",
-  "data": [{
-    "key": "name",
-    "value": "title"
-   },
-   {
-    "key": "note",
-    "value": "rate"
-   },
-   {
-    "key": "pic",
-    "value": "cover"
-   }
-  ]
- },
- "expires" : "86400"
-}],
-
-
-
-
-// 评分 (数据来自 豆瓣)
-"rating": [{
-    "name": "rating",
-    "request": {
-     "method": "GET",
-     "url": {
-      "raw": "https://api.wmdb.tv/api/v1/movie/search?q={name}&limit=1"
-     }
-    },
-    "response": {
-        "result": "this",
-        "data": [
-       {
-        "key": "rating",
-        "value": "doubanRating"
-       }
-      ]
-    }
-}],
-   
 //数据接口
-"adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
-"sites": [	{
-      "key": "YGFXZ",
-      "name": "💖本地文件💖",
-      "type": 3,
-      "api": "csp_Local",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
+"sites": [	
 {
             "key": "量子-资源",
             "name": "B分享量子",
