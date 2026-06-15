@@ -66,25 +66,9 @@
       "quickSearch": 0,
       "filterable": 0
     },
-     {
-            "key" : "js_好趣",
-            "name" : "🇨🇳分享直播",
-            "type" : 3,
-            "api" : "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-            "ext" : "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/好趣.js"
-        },
- {
-      "key": "fxzYD",
-      "name": "💖分享移动",
-      "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者YD.jar",
-      "api": "csp_YDjisu",
-      "searchable": 1,
-      "changeable": 1
-    },
 {
             "key": "量子-资源",
-            "name": "💖分享量子",
+            "name": "B分享量子",
             "type": 1,
             "api": "https://cj.lziapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -117,24 +101,11 @@
                 "欧美综艺"
             ]
         },
-{
-      "key": "玩-偶",
-      "name": "网盘_玩偶",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.net/",
-        "danMu": "弹"
-      } ,
-      "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者F.jar"
-    },
-{"key": "如意资源","name": "A分享如意","type": 1,"api": "https://cj.rycjapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},  
-{"key": "爱奇艺资源","name": "A分享奇艺","type": 1,"api": "https://iqiyizyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1}
+{"key": "如意资源","name": "B分享如意","type": 1,"api": "https://cj.rycjapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},  
+{"key":"热播影视","name":"A热播｜影视","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"}},
+{"key":"农民影视","name":"A农民｜影1","type":3,"api":"csp_Wwys","ext":"https://vip.wwgz.cn:5200"},
+{"key":"瓜子影视","name":"A瓜子｜影2","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/瓜子.py","changeable":1},
+{"key": "爱奇艺资源","name": "B分享奇艺","type": 1,"api": "https://iqiyizyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1}
 ],
 
 //解析接口
@@ -554,8 +525,7 @@
 //jar+壁纸
 //"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip;md5;4a8c0010a0abe47752164ac3e57f8765","wallpaper":"https://sgmao.serv00.net/image/", "warningText":"💕警告，请勿相信广告！！！💕",
 
-//电视直播  "lives":[{"name":"移动专线","type":0,"url":"https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/yd_cctv.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-
+//电视直播 
  "lives":[
              {"name":"电视","type":0,"url":"https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/yd_cctv.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
               {"name":"影视","type":0,"url":"http://rihou.cc:555/gggg.nzk","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"}
