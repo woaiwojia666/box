@@ -2,7 +2,8 @@
 {
 
 "sites": [
-{"key":"豆瓣2","name":"请勿相信广告，请勿相信广告！！！ 1025","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣2","name":"请勿相信广告，请勿相信广告！！！ 1041","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣1","name":"📢请勿相信广告，请勿相信广告！！！","type":3,"api":"csp_Notice","searchable": 1,"jar":"https://ncstatic-file.clewm.net/rsrc/2026/0307/11/f3b31497ca266ea4f8a89c88e9385f48.jpg;md5;ff4f99fad585f4935fcaa06e3092e44a","ext": "https://m.nxog.top/m/公告?b=m"},
 
 //jar
 {"key": "如意资源","name": "B分享｜如意","type": 1,"api": "https://cj.rycjapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},  
