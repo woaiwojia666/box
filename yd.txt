@@ -6,7 +6,7 @@
 "warningText":"m提示:\n📢接口软件永远免费 \n📢长期维护切勿贩卖",
 
 "sites": [
-{"key":"豆瓣2","name":"请勿相信广告，请勿相信广告！！！ 1043","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣2","name":"请勿相信广告，请勿相信广告！！！ 1100","type":3,"api":"csp_Douban","searchable":0},
 {"key":"豆瓣1","name":"📢请勿相信广告，请勿相信广告！！！","type":3,"api":"csp_Notice","searchable": 1,"jar":"https://ncstatic-file.clewm.net/rsrc/2026/0307/11/f3b31497ca266ea4f8a89c88e9385f48.jpg;md5;ff4f99fad585f4935fcaa06e3092e44a","ext": "https://m.nxog.top/m/公告?b=m"},
 
 //jar
@@ -72,8 +72,8 @@
 ],  
 
 //电视直播 
-"lives":[{"name":"电视","type":0,"url":"https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/yd_cctv.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png","playerType":2,"timeout":10},
-{"name":"备用","type":0,"playerType":2,"url":"https://bc.188766.xyz/?ip=&json=true","ua":"bingcha/1.1(mianfeifenxiang)"}
+"lives":[{"name":"A移动线路","type":0,"url":"https://gh-proxy.com/https://github.com/woaiwojia666/box/blob/main/yd_cctv.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png","playerType":2,"timeout":10},
+{"name":"B移动线路","type":0,"playerType":2,"url":"https://bc.188766.xyz/?ip=&json=true","ua":"bingcha/1.1(mianfeifenxiang)"}
 ],
 "headers":[{"host":"hlsztemgsplive.miguvideo.com","header":{"User-Agent":"bingcha/1.1(mianfeifenxiang)"}}],
 "proxy":["raw.githubusercontent.com"],
