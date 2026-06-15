@@ -2,7 +2,7 @@
 {
 
 "sites": [
-{"key":"豆瓣2","name":"📢请勿相信广告9.34","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣2","name":"📢请勿相信广告，请勿相信广告，请勿相信广告 9.48","type":3,"api":"csp_Douban","searchable":0},
 
 //jar
 {"key":"荐片","name":"荐片｜影视","api":"csp_JianPian","type":3},
