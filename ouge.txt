@@ -6,7 +6,7 @@
 "warningText":"m提示:\n📢接口软件永远免费 \n📢长期维护切勿贩卖",
 
 "sites": [
-{"key":"豆瓣2","name":"请勿相信广告，请勿相信广告！！！ 1100","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣2","name":"请勿相信广告，请勿相信广告！！！ 0102","type":3,"api":"csp_Douban","searchable":0},
 {"key":"豆瓣1","name":"请勿相信广告，请勿相信广告！！！","type":3,"api":"csp_Notice","searchable": 1,"jar":"https://ncstatic-file.clewm.net/rsrc/2026/0307/11/f3b31497ca266ea4f8a89c88e9385f48.jpg;md5;ff4f99fad585f4935fcaa06e3092e44a","ext": "https://m.nxog.top/m/公告?b=m"},
 {"key": "config", "name": "🐲歌配置｜中心","type": 3,"jar":"https://ncstatic-file.clewm.net/rsrc/2026/0524/23/bddac79856595d96120f2620c139605d.jpg;md5;ce0e1ac1479b78f120064cc4669f40ae","api": "csp_Config","searchable": 0},
 {"key":"配置中心","name":"❤配置｜中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
