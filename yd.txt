@@ -2,7 +2,7 @@
 {
 
 "sites": [
-{"key":"豆瓣2","name":"请勿相信广告，请勿相信广告 1025","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣2","name":"请勿相信广告，请勿相信广告！！！ 1025","type":3,"api":"csp_Douban","searchable":0},
 
 //jar
 {"key": "如意资源","name": "B分享｜如意","type": 1,"api": "https://cj.rycjapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},  
